@@ -11,3 +11,4 @@ els __forks__ i __pull requests (PR)__.
 - Josema Fuentes
 - Manuel Lorente
 - Veselin Vladimirov
+- Adrián Luján
